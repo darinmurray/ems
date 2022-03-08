@@ -1,0 +1,20 @@
+
+
+establish email
+
+find/gather sound files
+
+find/gather sound sample files
+
+fix all contact points in site
+
+create rails app
+    CC processing
+    downloads?
+    how to access?
+
+X create orders page  
+
+PayPal PayFlow Payments Pro??
+
+
