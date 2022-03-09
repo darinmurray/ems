@@ -1,0 +1,30 @@
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!--
+ created with Free Online Sitemap Generator www.xml-sitemaps.com 
+-->
+<url>
+<loc>https://darinmurray.github.io/ems/</loc>
+<lastmod>2022-03-09T00:52:43+00:00</lastmod>
+<priority>1.00</priority>
+</url>
+<url>
+<loc>https://darinmurray.github.io/ems/order.html</loc>
+<lastmod>2022-03-09T00:52:43+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://darinmurray.github.io/ems/privacy.html</loc>
+<lastmod>2022-03-09T00:52:43+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://darinmurray.github.io/ems/disclaimer.html</loc>
+<lastmod>2022-03-09T00:52:43+00:00</lastmod>
+<priority>0.80</priority>
+</url>
+<url>
+<loc>https://darinmurray.github.io/ems/index.html</loc>
+<lastmod>2022-03-09T00:52:43+00:00</lastmod>
+<priority>0.64</priority>
+</url>
+</urlset>
